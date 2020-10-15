@@ -1,0 +1,38 @@
+body {
+  background-color: #d8cbc7;
+  padding: 0;
+  margin: 0;
+  font-family: "Open Sans", sans-serif;
+}
+
+#content {
+  margin: 40px;
+}
+
+select {
+  font-size: 16px;
+  height: 1.5em;
+  color: #9a6d38;
+}
+
+button {
+  font-size: 16px;
+  color: #cc3f0c;
+  font-weight: bold;
+}
+
+h1 {
+  color: #19231a;
+  font-family: "Proza Libre", sans-serif;
+  text-align: center;
+}
+
+.your_story {
+  text-align: center;
+  font-size: 20px;
+}
+
+p {
+  padding: 5px;
+  color: #33673b;
+}
