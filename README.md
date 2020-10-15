@@ -1,6 +1,6 @@
 # Madlibs
  
-https://mbhalesha.github.io/SB-Madlibs/.
+https://mbhalesha.github.io/SB-Madlibs/
 
 I have created a Madlibs game using Python and Flask. I have defined the Madlibs stories and it will generate the resulting story from a set of answers. 
 
